@@ -21,3 +21,8 @@ git status (para checar)
 git add . (para adicionar os arquivos)
 git commit -m "O que estará de descrição no seu commit"
 git push (para enviar para o GitHub)
+
+Para enviar:
+
+Usuário: MarioJuunior (no caso)
+Senha: Token de acesso (se precisar, gere um novo token)
