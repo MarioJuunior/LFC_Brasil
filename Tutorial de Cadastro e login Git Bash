@@ -1,0 +1,8 @@
+Configuração de usuário e senha no GitHub:
+
+git config --global user.name MarioJuunior
+git config --global user.email mario.araujojr@sptech.school
+
+ABRA O TERMINAL/GIT BASH na pasta desejada de download do repositorio
+
+git clone https://github.com/MarioJuunior/NOME_DO_REPOSITORIO.git
