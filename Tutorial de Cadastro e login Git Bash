@@ -6,3 +6,18 @@ git config --global user.email mario.araujojr@sptech.school
 ABRA O TERMINAL/GIT BASH na pasta desejada de download do repositorio
 
 git clone https://github.com/MarioJuunior/NOME_DO_REPOSITORIO.git
+
+
+
+Para jogar algo dentro do GitHub:
+
+Use o comando cd para direcionar o diretório. Exemplo cd home/aluno/LFC_Store
+Use o comando ls para ir vendo se está no diretório certo
+Após selecionar o diretório, coloque:
+
+
+git init (para reiniciar)
+git status (para checar)
+git add . (para adicionar os arquivos)
+git commit -m "O que estará de descrição no seu commit"
+git push (para enviar para o GitHub)
